@@ -5,19 +5,21 @@ GitHub task for Mind Cloud
 `Ahmed Galal Fathallah`
 ### **My age**
 19
-### **My age**
+### **My department**
 Electrical Power and Machines
 ### **My favourite team**
 Software
 ## **Clonning my repo**
 - you can clone my repo by the following command
-'''
+```
 git clone https://github.com/AhmedGalal74/AhmedGalal_MindCloud.git
-'''
+```
 ## **Following me on GitHub**
 - you can find my GitHub account [Here](https://github.com/AhmedGalal74)
-### **The required screenshots**
+# **The required screenshots**
 ## **Commits**
-![This is an image] (file:///C:/Users/a8295/Desktop/Commits.png)
+![Commit_img](Commits.png)
 ## **Pull request**
-![This is an image] (file:///C:/Users/a8295/Desktop/Merge2.png)
+### **Open a pull request**
+Create a new pull request by comparing changes across two branches.
+![Pull request_img](Merge2.png)
