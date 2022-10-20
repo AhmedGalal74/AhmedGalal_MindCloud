@@ -16,10 +16,10 @@ git clone https://github.com/AhmedGalal74/AhmedGalal_MindCloud.git
 ```
 ## **Following me on GitHub**
 - you can find my GitHub account [Here](https://github.com/AhmedGalal74)
-# **The required screenshots**
-## **Commits**
+## **The required screenshots**
+### **Commits**
 ![Commit_img](Commits.png)
-## **Pull request**
+### **Pull request**
 ### **Open a pull request**
 Create a new pull request by comparing changes across two branches.
 ![Pull request_img](Merge2.png)
